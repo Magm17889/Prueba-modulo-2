@@ -1,0 +1,21 @@
+/* navar generar opacity */
+/* #navbar navbar-expand-lg bg-body-tertiary {
+    background: url(..assent/img/telecomunicaciones-evolución.jpg) no-repeat center;
+    background-size: cover;
+    min-height: 100vh;
+
+    
+  }*/
+
+  /*.header .navbar {
+    background-color: transparent;
+  }
+  */
+  h1{text-align: center;
+    opacity: "50%";
+}
+nav {text-align: center;}
+body{color: rgb(31, 15, 208);
+font-family:'Times New Roman';
+opacity: 75%;
+}

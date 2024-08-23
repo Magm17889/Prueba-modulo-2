@@ -50,3 +50,28 @@ button {    padding: 14px 28px;
   background-position: center;
 }
 .wrap-texto{color: rgb(17, 0, 0);text-align: center;width: 150%;}
+
+.wrap3{
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: url(/assets/img/images.jpg);
+  background-size: cover;
+  background-position: center;
+}
+.wrap-texto3{color: rgb(17, 0, 0);text-align: center;width: 150%;}
+
+.wrap4{
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: url(/assets/img/contacto.jpg);
+  background-size: cover;
+  background-position: center;
+}
+.wrap-texto4{color: rgb(17, 0, 0);text-align: center;width: 100%;}
+

@@ -7,15 +7,33 @@
     
   }*/
 
-  /*.header .navbar {
-    background-color: transparent;
+.header .navbar {
+    opacity: 25%;
   }
-  */
-  h1{text-align: center;
+  
+  .Hola{text-align: center;
+    color: black;
     opacity: "50%";
 }
-nav {text-align: center;}
-body{color: rgb(31, 15, 208);
+.Texto_Formal{text-align: justify;color: rgb(50, 36, 36);}
+.container-fluid {text-align: center;}
+/*nav {text-align: center;}*/
+body{color: rgb(16, 10, 29);
 font-family:'Times New Roman';
-opacity: 75%;
+opacity: 95%;text-align: justify;
 }
+.Experiencia {border: 5px;background-color: rgb(214, 214, 209);text-align: center;color: rgb(0, 0, 0);}
+
+button {    padding: 14px 28px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  color: rgb(243, 245, 244) ;
+  background-color: rgb(12, 12, 55);
+  overflow: hidden;
+  font-weight:bold;}
+
+.button-container {
+  text-align: center;
+}
+.Body_4 {background-color : #DBF9FC;}

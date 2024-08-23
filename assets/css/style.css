@@ -36,4 +36,17 @@ button {    padding: 14px 28px;
 .button-container {
   text-align: center;
 }
-.Body_4 {background-color : #DBF9FC;}
+.hola4 {text-align: center;font-family: 'Times New Roman'}
+/* html {height: 100%;}body {background-image: linear-gradient(to right, #FFFFFF, rgb(46, 34, 221));}  degradado*/
+
+.wrap{
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: url(/assets/img/telecomunicaciones-evolución.jpg);
+  background-size: cover;
+  background-position: center;
+}
+.wrap-texto{color: rgb(17, 0, 0);text-align: center;width: 150%;}

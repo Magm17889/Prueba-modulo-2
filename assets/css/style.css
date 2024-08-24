@@ -12,19 +12,20 @@
   }
   
   .Hola{text-align: center;
-    color: black;
+    color: rgb(38, 11, 11);
     opacity: "50%";
 }
 .Texto_Formal{text-align: justify;color: rgb(50, 36, 36);}
 .container-fluid {text-align: center;}
 /*nav {text-align: center;}*/
-body{color: rgb(16, 10, 29);
+body{
 font-family:'Times New Roman';
-opacity: 95%;text-align: justify;
+opacity: 95%;
+text-align: justify;
 }
 .Experiencia {border: 5px;background-color: rgb(214, 214, 209);text-align: center;color: rgb(0, 0, 0);}
 
-button {    padding: 14px 28px;
+button { padding: 14px 28px;
   border: none;
   border-radius: 5px;
   cursor: pointer;
@@ -51,6 +52,7 @@ button {    padding: 14px 28px;
 }
 .wrap-texto{color: rgb(17, 0, 0);text-align: center;width: 150%;}
 
+/* //// Tenia pensado hacer lo mismo en las otras paginas pero no se me mostraba en el navegador asi que lo deje asi ///
 .wrap3{
   width: 100vw;
   height: 100vh;
@@ -73,5 +75,5 @@ button {    padding: 14px 28px;
   background-size: cover;
   background-position: center;
 }
-.wrap-texto4{color: rgb(17, 0, 0);text-align: center;width: 100%;}
+.wrap-texto4{color: rgb(17, 0, 0);text-align: center;width: 100%;} */
 

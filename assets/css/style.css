@@ -52,7 +52,9 @@ button { padding: 14px 28px;
 }
 .wrap-texto{color: rgb(17, 0, 0);text-align: center;width: 150%;}
 
-/* //// Tenia pensado hacer lo mismo en las otras paginas pero no se me mostraba en el navegador asi que lo deje asi ///
+/* //// Tenia pensado hacer lo mismo en las otras paginas pero no se me mostraba en el navegador asi que lo deje asi, mi idea es que la imagen quede de fondo y el texto encima,  ///
+
+/// wrap3 (hace mencion a index_3) y wrap4 (hace mencion a index_4) ////////////////////
 .wrap3{
   width: 100vw;
   height: 100vh;
